@@ -1,11 +1,1 @@
-{
-  "name": "Markierungserfassung V3.1",
-  "short_name": "Markierungen",
-  "description": "Strassenmarkierungen mit GIS-Luftbild erfassen",
-  "lang": "de-CH",
-  "start_url": "./",
-  "scope": "./",
-  "display": "standalone",
-  "theme_color": "#123047",
-  "background_color": "#eef3f6"
-}
+{"name":"Markierungserfassung GIS Solothurn","short_name":"Markierungen","start_url":"./","scope":"./","display":"standalone","background_color":"#eef3f6","theme_color":"#163b52","lang":"de-CH"}

@@ -1,0 +1,10 @@
+Markierungserfassung V2 – iPad Web-App
+
+1. Alle drei Dateien index.html, manifest.webmanifest, sw.js in GitHub im Hauptordner des Repositories hochladen (index.html ersetzen).
+2. GitHub Pages: Settings > Pages > Deploy from branch > main > /(root).
+3. Safari auf iPad öffnen: https://teuscher-rgb.github.io/markierungserfassun/
+4. Nach Aktualisierung Safari neu laden; ggf. Tab schliessen und neu öffnen.
+5. GPS anklicken, dann GIS Solothurn Orthofoto (WMS-Test) wählen. Verschieben/Zoomen ist Standard. Zum Zeichnen Werkzeug aktivieren. Zwei-Finger-Zoom schaltet wieder auf Verschieben.
+6. Einträge werden nur lokal im Browser gespeichert. Regelmässig JSON-Sicherung exportieren. PDF über Druckdialog als PDF sichern.
+
+ACHTUNG: GIS-Solothurn-Layer (Orthofoto 2017) und CORS nicht live geprüft. Online nötig für neue Kartenausschnitte. Schraffur und Messwerte sind Näherungen; keine amtlichen Vermessungen. Keine sichere Offline-Kartennutzung.
